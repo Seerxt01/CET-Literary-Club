@@ -73,7 +73,7 @@ cd server
 npm install
 npm run start
 
-###🧪 Testing
+### 🧪 Testing
 - Manual testing for forms, routes, and UI
 - Lighthouse for performance audits
 - ESLint + Prettier for code quality
